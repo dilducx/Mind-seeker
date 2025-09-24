@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"perder_vida",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"perder_vida",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"revelar_plataformas",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"revelar_plataformas",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

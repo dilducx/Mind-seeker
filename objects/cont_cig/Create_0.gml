@@ -1,0 +1,1 @@
+tiempo_cigarro_restante = 0;
