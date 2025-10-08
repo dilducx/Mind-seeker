@@ -5,14 +5,17 @@ function perder_vida() {
     
     show_debug_message("Vidas restantes: " + string(vidas));
     
-    // Resetear posición si cayó
-    if (y > room_height) {
-        x = room_width / 2;
-        y = 100;
-    }
-    
     // Game Over
     if (vidas <= 0) {
         morir();
     }
+}
+
+function respawn() {
+    // Esta función debe ser llamada desde el objeto del jugador
+    // donde sí existen x e y
+    x = room_width / 2;
+    y = 100;
+    hspeed = 0;
+    vspeed = 0;
 }

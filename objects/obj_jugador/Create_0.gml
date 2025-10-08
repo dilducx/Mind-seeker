@@ -7,7 +7,11 @@ grounded = false;
 efecto_cigarro_activo = false;
 tiempo_cigarro_restante = 0;
 
-// Sistema de vidas
+// Coordenadas de respawn
+spawn_x = 115;
+spawn_y = 532;
+
+// Otras variables del jugador
 vidas = 3;
 inmune = false;
 

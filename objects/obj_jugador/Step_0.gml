@@ -30,6 +30,26 @@ else if (hor < 0) image_xscale = -1; // izquierda
 if (keyboard_check_pressed(vk_space) && grounded) {
     vsp = -18;
 }
+// Verificar si se cayó
+if (y > room_height) {
+    // Respawn en posición específica
+    x = spawn_x;
+    y = spawn_y;
+    hspeed = 0;
+    vspeed = 0;
+    
+    // Perder vida
+    vidas--;
+    inmune = true;
+    alarm[0] = 60;
+    
+    show_debug_message("Vidas restantes: " + string(vidas));
+    
+    // Game Over
+    if (vidas <= 0) {
+        morir();
+    }
+}
 
 // =======================
 // Gravedad
