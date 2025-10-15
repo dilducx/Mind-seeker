@@ -61,6 +61,7 @@
     {"id":{"name":"RM_menu","path":"rooms/RM_menu/RM_menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"morir","path":"scripts/morir/morir.yy",},},
     {"id":{"name":"perder_vida","path":"scripts/perder_vida/perder_vida.yy",},},
@@ -85,6 +86,7 @@
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"questionsbi","path":"rooms/questionsbi/questionsbi.yy",},},
     {"roomId":{"name":"creditos","path":"rooms/creditos/creditos.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
