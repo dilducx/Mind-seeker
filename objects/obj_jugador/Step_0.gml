@@ -89,3 +89,18 @@ if(instance_number(jaula) == 0){
 if (y > room_height + 100) {
     perder_vida();
 }
+
+// Parpadeo visual mientras está inmune
+if (inmune) {
+    image_alpha = (current_time div 100) mod 2;
+} else {
+    image_alpha = 1;
+}
+// Control de knockback
+if (knockback_timer > 0) {
+    knockback_timer -= 1;
+} else {
+    // Permite moverse de nuevo
+    hsp = 0;
+}
+
