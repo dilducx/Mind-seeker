@@ -42,3 +42,4 @@ function morir() {
     room_restart();
 }
 knockback_timer = 0;
+estado = "normal";

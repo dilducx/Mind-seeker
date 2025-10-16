@@ -8,7 +8,7 @@ vision_range = 200;
 state = 0;
 
 // Velocidad de ataque
-attack_speed = 6;
+attack_speed = 10;
 
 // Tiempo de vida después del ataque
 lifetime = 60; // 1 segundo (60 fps)

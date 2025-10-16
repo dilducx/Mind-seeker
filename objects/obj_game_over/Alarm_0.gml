@@ -1,2 +1,2 @@
 // REINICIAR NIVEL
-game_restart(); // Esto SÍ funciona siempre
+room_restart();// Esto SÍ funciona siempre
