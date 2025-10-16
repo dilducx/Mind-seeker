@@ -6,15 +6,15 @@ switch (state) {
                 // Cambia a estado de ataque
                 state = 1;
                 var dir = point_direction(x, y, target.x, target.y);
-                hspeed = lengthdir_x(attack_speed, dir);
-                vspeed = lengthdir_y(attack_speed, dir);
+                hsp = lengthdir_x(attack_speed, dir);
+                vsp = lengthdir_y(attack_speed, dir);
             }
         }
         break;
 
     case 1: // Atacando
-        x += hspeed;
-        y += vspeed;
+        x += hsp;
+        y += vsp;
         lifetime -= 1;
         if (lifetime <= 0) {
             instance_destroy(); // muere después del ataque
