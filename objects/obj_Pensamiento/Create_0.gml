@@ -1,4 +1,4 @@
-// Referencia al jugador
+	// Referencia al jugador
 target = obj_jugador; 
 
 // Rango de visión

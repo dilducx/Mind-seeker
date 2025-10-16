@@ -19,3 +19,8 @@ function respawn() {
     hspeed = 0;
     vspeed = 0;
 }
+
+function recibir_dano() {
+	vidas--
+	inmune = true
+}
