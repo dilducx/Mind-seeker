@@ -1,5 +1,9 @@
 // Configuración de la pregunta
+<<<<<<< Updated upstream
 pregunta = "Te gusto el juego?";
+=======
+pregunta = "pienso en rendirme, pero el sentimiento de que tengo que continuar esta carcomiendo debido al tiempo que le dedicamos, ya no se como proceder.";
+>>>>>>> Stashed changes
 respuesta_correcta = 1; // 1 = Sí, 2 = No
 opcion1 = "1. Si";
 opcion2 = "2. No";

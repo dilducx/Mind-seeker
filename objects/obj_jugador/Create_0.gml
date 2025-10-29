@@ -41,4 +41,9 @@ function morir() {
     show_debug_message("GAME OVER");
     room_restart();
 }
+<<<<<<< Updated upstream
 knockback_timer = 0;
+=======
+knockback_timer = 15;
+estado = "normal";
+>>>>>>> Stashed changes

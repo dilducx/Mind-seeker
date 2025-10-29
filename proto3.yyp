@@ -53,10 +53,13 @@
     {"id":{"name":"obj_Pausa","path":"objects/obj_Pausa/obj_Pausa.yy",},},
     {"id":{"name":"obj_Pensamiento","path":"objects/obj_Pensamiento/obj_Pensamiento.yy",},},
     {"id":{"name":"obj_plataforma_invisible","path":"objects/obj_plataforma_invisible/obj_plataforma_invisible.yy",},},
+    {"id":{"name":"obj_pregunta_final_2","path":"objects/obj_pregunta_final_2/obj_pregunta_final_2.yy",},},
+    {"id":{"name":"obj_pregunta_final_3","path":"objects/obj_pregunta_final_3/obj_pregunta_final_3.yy",},},
     {"id":{"name":"obj_pregunta_final","path":"objects/obj_pregunta_final/obj_pregunta_final.yy",},},
     {"id":{"name":"plat_corto","path":"objects/plat_corto/plat_corto.yy",},},
     {"id":{"name":"creditos","path":"rooms/creditos/creditos.yy",},},
     {"id":{"name":"questions","path":"rooms/questions/questions.yy",},},
+    {"id":{"name":"questionsbi_1","path":"rooms/questionsbi_1/questionsbi_1.yy",},},
     {"id":{"name":"questionsbi","path":"rooms/questionsbi/questionsbi.yy",},},
     {"id":{"name":"RM_menu","path":"rooms/RM_menu/RM_menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -84,6 +87,11 @@
     {"roomId":{"name":"questions","path":"rooms/questions/questions.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"questionsbi","path":"rooms/questionsbi/questionsbi.yy",},},
+<<<<<<< Updated upstream
+=======
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"questionsbi_1","path":"rooms/questionsbi_1/questionsbi_1.yy",},},
+>>>>>>> Stashed changes
     {"roomId":{"name":"creditos","path":"rooms/creditos/creditos.yy",},},
   ],
   "templateType":"game",
