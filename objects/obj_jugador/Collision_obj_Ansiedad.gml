@@ -8,6 +8,7 @@ if (!inmune) {
 
     if (other.x > x) {
         hsp = -knockback_fuerza_x;
+		other.dir*= -1;
     } else {
         hsp = knockback_fuerza_x;
     }
