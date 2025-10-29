@@ -42,6 +42,7 @@
     {"name":"questionsbi","order":3,"path":"rooms/questionsbi/questionsbi.yy",},
     {"name":"RM_menu","order":5,"path":"rooms/RM_menu/RM_menu.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room3","order":6,"path":"rooms/Room3/Room3.yy",},
     {"name":"RoomUI","order":18,"path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"morir","order":2,"path":"scripts/morir/morir.yy",},
     {"name":"perder_vida","order":1,"path":"scripts/perder_vida/perder_vida.yy",},
