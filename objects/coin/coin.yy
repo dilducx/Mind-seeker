@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite4",
-    "path":"sprites/Sprite4/Sprite4.yy",
+    "name":"spr_llave_pieza_1",
+    "path":"sprites/spr_llave_pieza_1/spr_llave_pieza_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

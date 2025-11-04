@@ -1,7 +1,11 @@
-// Configuración de la pregunta
-pregunta = "la paciente paso por un momento de terror y peligro en la oscuridad y teniendo como agregado de su miedo lo que le sucedió a su hermano esa misma noche ¿Como sano su miedo a la oscuridad?";
-respuesta_correcta = 1; // 1 = Sí, 2 = No
-opcion1 = "1. Asociar la oscuridad con la calma, usando actividades relajantes en entornos seguros.";
-opcion2 = "2. Exponer al paciente directamente a la oscuridad (ej. caminar de noche) para que se acostumbre.";
+// Configuración de la pregunta (Nivel 2: Fobia)
+pregunta = "Paciente desarrolló Nictofobia (miedo a la oscuridad) tras un evento traumático nocturno que también afectó a un familiar. ¿Cuál es la terapia de inicio más adecuada?";
+
+respuesta_correcta = 1; // Opción 1 es la correcta
+
+opcion1 = "1. Re-asociar la oscuridad con la calma, usando actividades relajantes en entornos seguros y controlados.";
+opcion2 = "2. Iniciar una terapia de exposición directa, haciendo que camine de noche para forzar la costumbre.";
+
+// Posicionamiento del texto (no es necesario cambiarlo)
 x_centro = room_width / 2;
 y_pregunta = 200;

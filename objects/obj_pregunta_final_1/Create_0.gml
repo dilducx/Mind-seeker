@@ -1,7 +1,7 @@
 // Configuración de la pregunta
-pregunta = "el paciente esta en una depresión debido a la perdida de un amigo y proyecto que hizo con el ¿como procedo?";
-respuesta_correcta = 2; // cambiable depende el numero la opcion correcta
-opcion1 = "1. Buscarle una motivación externa (como enseñar a otros) basada en el proyecto fallido.";
-opcion2 = "2. Ayudarle a valorar el aprendizaje obtenido y a forjar un nuevo camino personal.";
+pregunta = "Paciente sufre depresión tras la muerte de un amigo y la pérdida de un proyecto vital que compartían. ¿Cuál es el enfoque terapéutico correcto?";
+respuesta_correcta = 2; // Opción 2 es la correcta
+opcion1 = "1. Motivarle a retomar el proyecto enseñando a otros, para darle un nuevo propósito.";
+opcion2 = "2. Ayudarle a procesar el duelo, validando el aprendizaje obtenido y explorando nuevos caminos personales.";
 x_centro = room_width / 2;
 y_pregunta = 200;

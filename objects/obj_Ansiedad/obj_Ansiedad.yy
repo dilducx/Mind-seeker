@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Ansiedad",
-    "path":"sprites/Ansiedad/Ansiedad.yy",
+    "name":"Sprite10",
+    "path":"sprites/Sprite10/Sprite10.yy",
   },
   "spriteMaskId":null,
   "visible":true,

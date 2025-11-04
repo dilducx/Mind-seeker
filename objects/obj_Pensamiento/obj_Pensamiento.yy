@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_corazon",
-    "path":"sprites/spr_corazon/spr_corazon.yy",
+    "name":"Sprite7",
+    "path":"sprites/Sprite7/Sprite7.yy",
   },
   "spriteMaskId":null,
   "visible":true,
