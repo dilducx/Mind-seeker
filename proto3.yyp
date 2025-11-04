@@ -40,6 +40,7 @@
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},},
+    {"id":{"name":"Fontpista","path":"fonts/Fontpista/Fontpista.yy",},},
     {"id":{"name":"coin","path":"objects/coin/coin.yy",},},
     {"id":{"name":"cont_cig","path":"objects/cont_cig/cont_cig.yy",},},
     {"id":{"name":"Creditos","path":"objects/Creditos/Creditos.yy",},},

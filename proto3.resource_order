@@ -21,6 +21,7 @@
     {"name":"fnt_cigarro","order":2,"path":"fonts/fnt_cigarro/fnt_cigarro.yy",},
     {"name":"fnt_menu","order":3,"path":"fonts/fnt_menu/fnt_menu.yy",},
     {"name":"Font2","order":1,"path":"fonts/Font2/Font2.yy",},
+    {"name":"Fontpista","order":4,"path":"fonts/Fontpista/Fontpista.yy",},
     {"name":"coin","order":3,"path":"objects/coin/coin.yy",},
     {"name":"Creditos","order":9,"path":"objects/Creditos/Creditos.yy",},
     {"name":"demuelte","order":1,"path":"objects/demuelte/demuelte.yy",},
