@@ -12,7 +12,7 @@ if (pista_temporizador > 0) {
     }
 
     // Dibujar fondo (similar a tu contador de cigarro)
-    draw_set_font(Font1); // O la fuente que prefieras
+    draw_set_font(Fontpista); // O la fuente que prefieras
     draw_set_halign(fa_center);
     
     draw_set_color(c_black);
