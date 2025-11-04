@@ -15,5 +15,5 @@ draw_text(x_centro, 250, opcion1);
 draw_text(x_centro, 300, opcion2);
 
 // Instrucciones
-draw_set_font(Font2);
+draw_set_font(Font1);
 draw_text(x_centro, 400, "Presiona 1 o 2 para responder");

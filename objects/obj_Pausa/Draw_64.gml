@@ -10,7 +10,7 @@ if (global.paused) {
 
     // Título
     draw_set_color(c_white);
-    draw_set_font(-1); // Fuente por defecto
+    draw_set_font(Font1); // Fuente por defecto
     draw_text(cx - 50, cy - 80, "PAUSA");
     draw_text(cx - 130, cy - 20, "Presiona ESC para continuar");
 	

@@ -29,6 +29,7 @@
     {"name":"obj_Ansiedad","order":12,"path":"objects/obj_Ansiedad/obj_Ansiedad.yy",},
     {"name":"obj_cigarro","order":5,"path":"objects/obj_cigarro/obj_cigarro.yy",},
     {"name":"obj_controlador_pistas","order":2,"path":"objects/obj_controlador_pistas/obj_controlador_pistas.yy",},
+    {"name":"obj_falla_paciente","order":3,"path":"objects/obj_falla_paciente/obj_falla_paciente.yy",},
     {"name":"obj_game_over","order":7,"path":"objects/obj_game_over/obj_game_over.yy",},
     {"name":"obj_jugador","order":2,"path":"objects/obj_jugador/obj_jugador.yy",},
     {"name":"obj_Menu","order":11,"path":"objects/obj_Menu/obj_Menu.yy",},
