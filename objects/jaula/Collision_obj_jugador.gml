@@ -1,5 +1,5 @@
 // Verificar si tiene 3 monedas
-if (obj_jugador.monedas_recogidas >= 3) {
+if (global.piezas_recogidas.pieza1 && global.piezas_recogidas.pieza2 && global.piezas_recogidas.pieza3) {
     // Crear la pregunta
     instance_create_layer(x, y, "Instances", obj_pregunta_final_1);
     game_paused = true; // Pausar juego

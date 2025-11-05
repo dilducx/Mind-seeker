@@ -19,7 +19,7 @@ draw_text(cx, cy - 20, mensaje_linea2);
 draw_text(cx, cy + 20, mensaje_linea3);
 
 // Instrucciones de reinicio
-draw_set_font(Font2); // Usa tu fuente secundaria
+draw_set_font(Font1); // Usa tu fuente secundaria
 draw_set_color(c_white);
 draw_text(cx, cy + 80, "Presiona ENTER para volver al menú");
 draw_text(cx, cy + 120, "Volviendo en: " + string(ceil(alarm[0]/room_speed)) + "s");
