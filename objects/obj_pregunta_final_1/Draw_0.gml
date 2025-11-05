@@ -1,6 +1,3 @@
-// --- FONDO (CENTRADO CORRECTAMENTE) ---
-// Dibuja el sprite usando su nuevo origen (Middle Centre) en el centro de la sala
-draw_sprite(spr_fondo_pregunta, 0, room_width / 2, room_height / 2);
 
 
 // --- Función Auxiliar para Dibujar Texto con Fondo ---
