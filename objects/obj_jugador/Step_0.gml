@@ -28,7 +28,7 @@ else if (hor < 0) image_xscale = -1; // izquierda
 // Salto
 // =======================
 if (keyboard_check_pressed(vk_space) && grounded) {
-    vsp = -18;
+    vsp = -14;
 }
 // Verificar si se cayó
 if (y > room_height) {
