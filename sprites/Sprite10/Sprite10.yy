@@ -54,8 +54,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"proto3",
-    "path":"proto3.yyp",
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

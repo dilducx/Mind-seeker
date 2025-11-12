@@ -10,8 +10,8 @@
   "name":"obj_Ansiedad",
   "overriddenProperties":[],
   "parent":{
-    "name":"objetos",
-    "path":"folders/objetos.yy",
+    "name":"juego",
+    "path":"folders/objetos/juego.yy",
   },
   "parentObjectId":null,
   "persistent":false,
