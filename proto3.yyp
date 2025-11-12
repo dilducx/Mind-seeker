@@ -46,6 +46,7 @@
     {"id":{"name":"cont_cig","path":"objects/cont_cig/cont_cig.yy",},},
     {"id":{"name":"Creditos","path":"objects/Creditos/Creditos.yy",},},
     {"id":{"name":"demuelte","path":"objects/demuelte/demuelte.yy",},},
+    {"id":{"name":"instrucion","path":"objects/instrucion/instrucion.yy",},},
     {"id":{"name":"jaula","path":"objects/jaula/jaula.yy",},},
     {"id":{"name":"obj_Ansiedad","path":"objects/obj_Ansiedad/obj_Ansiedad.yy",},},
     {"id":{"name":"obj_cigarro","path":"objects/obj_cigarro/obj_cigarro.yy",},},
