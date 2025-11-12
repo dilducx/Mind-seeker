@@ -66,6 +66,7 @@
     {"id":{"name":"Object20_2","path":"objects/Object20_2/Object20_2.yy",},},
     {"id":{"name":"Object20","path":"objects/Object20/Object20.yy",},},
     {"id":{"name":"plat_corto","path":"objects/plat_corto/plat_corto.yy",},},
+    {"id":{"name":"Bestiario","path":"rooms/Bestiario/Bestiario.yy",},},
     {"id":{"name":"creditos","path":"rooms/creditos/creditos.yy",},},
     {"id":{"name":"questions","path":"rooms/questions/questions.yy",},},
     {"id":{"name":"questionsbi","path":"rooms/questionsbi/questionsbi.yy",},},
@@ -74,6 +75,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"Tutorial","path":"rooms/Tutorial/Tutorial.yy",},},
     {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"morir","path":"scripts/morir/morir.yy",},},
     {"id":{"name":"perder_vida","path":"scripts/perder_vida/perder_vida.yy",},},
@@ -103,6 +105,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"RM_menu","path":"rooms/RM_menu/RM_menu.yy",},},
+    {"roomId":{"name":"Tutorial","path":"rooms/Tutorial/Tutorial.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"questions","path":"rooms/questions/questions.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
@@ -110,6 +113,7 @@
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"questionstri","path":"rooms/questionstri/questionstri.yy",},},
     {"roomId":{"name":"creditos","path":"rooms/creditos/creditos.yy",},},
+    {"roomId":{"name":"Bestiario","path":"rooms/Bestiario/Bestiario.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
