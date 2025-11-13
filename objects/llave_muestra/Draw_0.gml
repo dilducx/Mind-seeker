@@ -1,8 +1,5 @@
-// 1. Dibuja el sprite de la llave
 draw_self(); 
-
-// 2. Dibuja el texto explicativo
-draw_set_font(Fontpista); // Uso la otra fuente para variar
+draw_set_font(Fontpista); 
 draw_set_color(c_white);
 draw_set_halign(fa_center); 
 
