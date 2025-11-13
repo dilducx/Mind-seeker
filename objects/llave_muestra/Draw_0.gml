@@ -1,4 +1,13 @@
-draw_sprite(spr_llave_hud_base,image_index,142,122)
-draw_set_font(fnt_menu);
+// 1. Dibuja el sprite de la llave
+draw_self(); 
+
+// 2. Dibuja el texto explicativo
+draw_set_font(Fontpista); // Uso la otra fuente para variar
 draw_set_color(c_white);
-draw_text(247, 67, "solo puedes solucionar el problema entrando al trauma con la llave \n que estara divida por los diferentes niveles\n otrogandote pistas para la pregunta que tendras que resolver");
+draw_set_halign(fa_center); 
+
+// Dibuja el texto 100 píxeles DEBAJO del centro del sprite
+draw_text(x, y + 100, "Reúne las 3 piezas de la llave para escapar");
+
+// Reset
+draw_set_halign(fa_left);

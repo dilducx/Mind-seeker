@@ -1,8 +1,9 @@
+// Este objeto SÓLO dibujará el objetivo
 draw_set_font(fnt_menu);
 draw_set_color(c_white);
+draw_set_halign(fa_left); 
 
-draw_text(1000, 50, "MOVIMIENTO");
-draw_text(1000, 400, "SALTAR");
-draw_text(200, 600, "OBJETIVO:conseguir las piezas de la llave,");
-draw_text(200, 620, "abrirla la jaula y elegir el metodo correcto");
-draw_text(200, 640, "para tratar el trauma del paciente");
+// Dibuja el texto en la POSICIÓN (x, y) donde pongas el objeto
+draw_text(x, y, "OBJETIVO: conseguir las piezas de la llave,");
+draw_text(x, y + 20, "abrir el trauma y elegir el metodo correcto");
+draw_text(x, y + 40, "para tratar el dolor del paciente");
